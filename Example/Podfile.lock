@@ -1,0 +1,23 @@
+PODS:
+  - LQGLocalTool (1.0.0):
+    - YYCache
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - LQGLocalTool (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - YYCache
+
+EXTERNAL SOURCES:
+  LQGLocalTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGLocalTool: 0f4c244693b3c57d46b9b585c88d634aed6646e6
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: 7f5b9de39edfbf00d7fa4a381de2723cb370a0ae
+
+COCOAPODS: 1.11.2
